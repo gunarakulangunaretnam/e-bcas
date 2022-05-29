@@ -1,0 +1,42 @@
+Testing Started on 2019-5-28 at 09:18:53 PM
+===========================================
+
+The System has been logined as admin mood at 09:18:53 PM 
+
+
+
+The testing process of staff module started at 09:18:53 PM
+---------------------------------------------------------------------------------
+
+
+
+
+
+A staff has been removed 
+A staff has been removed 
+A staff has been removed 
+A staff has been removed 
+A staff has been removed 
+A staff has been removed 
+A staff has been removed 
+A staff has been removed 
+A staff has been removed 
+A staff has been removed 
+
+A staff details has been modified
+A staff details has been modified
+A staff details has been modified
+A staff details has been modified
+A staff details has been modified
+A staff details has been modified
+A staff details has been modified
+A staff details has been modified
+A staff details has been modified
+A staff details has been modified
+
+
+The testing process of staff module completed at 09:18:53 PM
+------------------------------------------------------------------------------------
+A new staff has been inserted at 09:18:53 PM
+A new staff has been inserted at 09:18:53 PM
+A new staff has been inserted at 09:18:53 PM

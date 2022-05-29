@@ -1,0 +1,37 @@
+Testing Started on 2019-5-28 at 08:18:43 PM
+===========================================
+
+The System has been logined as admin mood at 08:18:43 PM 
+
+
+
+The testing process of student module started at 08:18:43 PM
+---------------------------------------------------------------------------------
+
+
+
+A student has been removed 
+A student has been removed 
+A student has been removed 
+A student has been removed 
+A student has been removed 
+A student has been removed 
+A student has been removed 
+A student has been removed 
+A student has been removed 
+A student has been removed 
+
+A student details has been modified
+A student details has been modified
+A student details has been modified
+A student details has been modified
+A student details has been modified
+A student details has been modified
+A student details has been modified
+A student details has been modified
+A student details has been modified
+A student details has been modified
+
+
+The testing process of student module completed at 08:18:43 PM
+------------------------------------------------------------------------------------

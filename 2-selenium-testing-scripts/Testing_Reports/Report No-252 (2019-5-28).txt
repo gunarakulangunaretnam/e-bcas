@@ -1,0 +1,26 @@
+Testing Started on 2019-5-28 at 10:54:26 AM
+===========================================
+
+The System has been logined as admin mood at 10:54:26 AM 
+
+
+
+The testing process of Department module started at 10:54:26 AM
+---------------------------------------------------------------------------------
+
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM
+A department has been added to the database at 10:54:26 AM

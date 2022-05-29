@@ -1,0 +1,16 @@
+Testing Started on 2019-5-31 at 11:14:07 PM
+===========================================
+
+The System has been logined as admin mood at 11:14:07 PM 
+
+
+
+
+
+
+The testing process of the system completed at 11:14:07 PM
+------------------------------------------------------------------------------------
+The testing process of setting module started at 11:14:07 PM
+---------------------------------------------------------------------------------
+
+

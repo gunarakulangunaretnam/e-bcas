@@ -1,0 +1,56 @@
+Testing Started on 2019-5-31 at 11:24:14 PM
+===========================================
+
+The System has been logined as admin mood at 11:24:14 PM 
+
+
+
+
+
+
+The testing process of the system completed at 11:24:14 PM
+------------------------------------------------------------------------------------
+The testing process of add batches module started at 11:24:14 PM
+-----------------------------------------------------------------------------
+
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+A new batch created at 11:24:14 PM
+The process of batch creation completed at 11:24:14 PM
+
+The process deleting batches has been started
+
+A batch has been removed from the database
+A batch has been removed from the database
+A batch has been removed from the database
+A batch has been removed from the database
+A batch has been removed from the database
+The testing process of batches has been completed at 11:24:14 PM
+------------------------------------------------------------------------------
+
+
+

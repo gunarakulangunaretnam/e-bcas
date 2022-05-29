@@ -1,0 +1,26 @@
+Testing Started on 2019-5-26 at 04:30:19 PM
+===========================================
+
+The System has been logined as admin mood at 04:30:19 PM 
+
+
+
+The testing process course module starts at 04:30:19 PM
+----------------------------------------------------------------------
+Row 1 has been inserted starts at 04:30:19 PM
+Row 2 has been inserted starts at 04:30:19 PM
+Row 3 has been inserted starts at 04:30:19 PM
+Row 4 has been inserted starts at 04:30:19 PM
+Row 5 has been inserted starts at 04:30:19 PM
+Row 6 has been inserted starts at 04:30:19 PM
+Row 7 has been inserted starts at 04:30:19 PM
+Row 8 has been inserted starts at 04:30:19 PM
+Row 9 has been inserted starts at 04:30:19 PM
+Row 10 has been inserted starts at 04:30:19 PM
+Row 11 has been inserted starts at 04:30:19 PM
+Row 12 has been inserted starts at 04:30:19 PM
+The testing process of course module has been completed at 04:30:19 PM
+----------------------------------------------------------------------
+
+
+

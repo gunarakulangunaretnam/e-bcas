@@ -1,0 +1,53 @@
+Testing Started on 2019-5-27 at 10:37:13 PM
+===========================================
+
+The System has been logined as admin mood at 10:37:13 PM 
+
+
+
+The testing process add course module starts at 10:37:13 PM
+--------------------------------------------------------------------------
+Row 1 has been inserted starts at 10:37:13 PM
+Row 2 has been inserted starts at 10:37:13 PM
+Row 3 has been inserted starts at 10:37:13 PM
+Row 4 has been inserted starts at 10:37:13 PM
+Row 5 has been inserted starts at 10:37:13 PM
+Row 6 has been inserted starts at 10:37:13 PM
+Row 7 has been inserted starts at 10:37:13 PM
+Row 8 has been inserted starts at 10:37:13 PM
+Row 9 has been inserted starts at 10:37:13 PM
+Row 10 has been inserted starts at 10:37:13 PM
+Row 11 has been inserted starts at 10:37:13 PM
+Row 12 has been inserted starts at 10:37:13 PM
+The testing process of add course module has been completed at 10:37:13 PM
+--------------------------------------------------------------------------
+
+
+
+The testing process Manage course module starts at 10:37:13 PM
+-----------------------------------------------------------------------------
+Row deleting process started at 10:37:13 PM
+Row 0 has been deleted successfully!
+Row 1 has been deleted successfully!
+Row 2 has been deleted successfully!
+3 rows have been deleted successfully at 10:37:13 PM
+
+The updating process started at 10:37:13 PM
+A row has been updated successfully
+Another row has been updated successfully
+Once more a row has been updated successfully
+Updating testing process has been completed successfully
+The testing process of manage course module has been completed at 10:37:13 PM
+-----------------------------------------------------------------------------
+
+
+The testing process of add batches module started at 10:37:13 PM
+-----------------------------------------------------------------------------
+
+A new batch created at 10:37:13 PM
+A new batch created at 10:37:13 PM
+A new batch created at 10:37:13 PM
+A new batch created at 10:37:13 PM
+A new batch created at 10:37:13 PM
+A new batch created at 10:37:13 PM
+A new batch created at 10:37:13 PM

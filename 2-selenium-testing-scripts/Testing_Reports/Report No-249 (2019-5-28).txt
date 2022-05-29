@@ -1,0 +1,10 @@
+Testing Started on 2019-5-28 at 10:49:19 AM
+===========================================
+
+The System has been logined as admin mood at 10:49:19 AM 
+
+
+
+The testing process add course module starts at 10:49:19 AM
+--------------------------------------------------------------------------
+Row 1 has been inserted starts at 10:49:19 AM

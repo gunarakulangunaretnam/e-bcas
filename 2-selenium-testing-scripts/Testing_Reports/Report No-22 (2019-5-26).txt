@@ -1,0 +1,6 @@
+Testing Started on 2019-5-26 at 04:06:55 PM
+===========================================
+
+The System has been logined as admin mood at 04:06:55 PM 
+
+The course module testing starts at 04:06:55 PM 

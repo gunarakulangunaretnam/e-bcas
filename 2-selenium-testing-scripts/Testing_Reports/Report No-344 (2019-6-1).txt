@@ -1,0 +1,25 @@
+Testing Started on 2019-6-1 at 12:00:04 AM
+===========================================
+
+The System has been logined as admin mood at 12:00:04 AM 
+
+
+
+
+
+
+The testing process of the system completed at 12:00:04 AM
+------------------------------------------------------------------------------------
+The testing process of user account started at 12:00:04 AM
+---------------------------------------------------------------------------------
+
+
+
+A new user account has been created at 12:00:04 AM
+A new user account has been created at 12:00:04 AM
+A new user account has been created at 12:00:04 AM
+A new user account has been created at 12:00:04 AM
+A new user account has been created at 12:00:04 AM
+A new user account has been created at 12:00:04 AM
+A new user account has been created at 12:00:04 AM
+A new user account has been created at 12:00:04 AM

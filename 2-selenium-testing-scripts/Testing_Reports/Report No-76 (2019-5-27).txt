@@ -1,0 +1,9 @@
+Testing Started on 2019-5-27 at 10:58:59 AM
+===========================================
+
+The System has been logined as admin mood at 10:58:59 AM 
+
+
+
+The testing process add batches module starts at 10:58:59 AM
+-----------------------------------------------------------------------------

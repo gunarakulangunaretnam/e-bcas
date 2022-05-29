@@ -1,0 +1,52 @@
+Testing Started on 2019-5-27 at 10:01:25 PM
+===========================================
+
+The System has been logined as admin mood at 10:01:25 PM 
+
+
+
+The testing process of add batches module started at 10:01:25 PM
+-----------------------------------------------------------------------------
+
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+A new batch created at 10:01:25 PM
+The process of batch creation completed at 10:01:25 PM
+
+The process deleting batches has been started
+
+A batch has been removed from the databaseA batch has been removed from the databaseA batch has been removed from the databaseA batch has been removed from the databaseA batch has been removed from the databaseThe testing process of batches has been completed at 10:01:25 PM
+-------------------------------------------------------------------

@@ -1,0 +1,16 @@
+Testing Started on 2019-5-26 at 07:44:52 PM
+===========================================
+
+The System has been logined as admin mood at 07:44:52 PM 
+
+
+
+The testing process Manage course module starts at 07:44:52 PM
+--------------------------------------------------------------------------
+Row deleting process started at 07:44:52 PM
+Row {} has been deleted successfully!
+Row {} has been deleted successfully!
+Row {} has been deleted successfully!
+3 rows have been deleted successfully at 07:44:52 PM
+
+The updating process started at 07:44:52 PM
