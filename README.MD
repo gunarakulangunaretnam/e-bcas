@@ -84,9 +84,12 @@ The following site map clearly explains the structure of the E-BCAS system. This
 
 ## Directory Structure
 
-- **0-database** : contains the database of the system.
-- **1-soruce**   : contains source code of the project.
-- **2-selenium-testing-scripts**   : contains testing scripts for the project.
+- **0-database** : Contains the database of the system.
+- **1-soruce**   : Contains source code of the project.
+- **2-selenium-testing-scripts**   : Contains testing scripts for the project.
+
+- **github-readme-contents**   : Contains GitHub readme assets.
+
 
 ## Configuration & Setup
 
