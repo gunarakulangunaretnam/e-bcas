@@ -131,6 +131,9 @@ By clicking the change profile picture button on the setting page, it will be re
 
 ![Sitemap](github-readme-contents/profile-change-admin.png)
 
+### Admin Theme Change
+
+![Sitemap](github-readme-contents/change-theme.gif)
 
 ## Web Testing Scripts Explained
 
