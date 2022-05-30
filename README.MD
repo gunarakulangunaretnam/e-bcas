@@ -99,6 +99,39 @@ The following site map clearly explains the structure of the E-BCAS system. This
 
 ## System Explained
 
+### Login Page
+
+This is the login page of this system, it has three text boxes, the first one indicates the account type, there are two types of accounts are available in this system, those are admin accounts and student accounts.
+
+This login page has been developed with HTML 5, CSS 3, JavaScript and then some frameworks such as jQuery and Bootstrap.   
+
+
+![Sitemap](github-readme-contents/login-page.png)
+
+
+### Admin Account
+
+This is the admin panel. It contain eight modules such as student, staff, courses, Batches, Department, Modules, Results, and Student Accounts.
+
+The admin has an account setting module on the right side of the header bar that includes all the details of this system such as personal details, and credentials, the system's theme and etc. The admin can change the password, username, profile picture, and theme of the system.
+
+![Sitemap](github-readme-contents/admin-account.png)
+
+### Admin Account Settings
+
+This is the admin setting page. This page contains all information about the admin, here there are options to change password, username, theme, profile pictures, etc.
+
+![Sitemap](github-readme-contents/account-settings.jpg)
+
+![Sitemap](github-readme-contents/setting-overview-page.jpg)
+
+### Admin Profile Change
+
+By clicking the change profile picture button on the setting page, it will be redirected to this page. Here, we can change the profile picture, it has a slider to adjust the profile picture size. If we click the browse button, that will let us select a profile picture from the local computer to upload.
+
+![Sitemap](github-readme-contents/profile-change-admin.png)
+
+
 ## Web Testing Scripts Explained
 
 ## Social Media Links
