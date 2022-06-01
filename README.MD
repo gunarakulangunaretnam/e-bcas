@@ -108,6 +108,15 @@ This login page has been developed with HTML 5, CSS 3, JavaScript and then some 
 
 ![Sitemap](github-readme-contents/login-page.png)
 
+#### Admin Login
+
+- **Username:** admin
+- **Password:** admin
+
+#### Sample Student login
+
+- **Username:** student1
+- **Password:** pass123
 
 ### Admin Account
 
@@ -134,6 +143,271 @@ By clicking the change profile picture button on the setting page, it will be re
 ### Admin Theme Change
 
 ![Sitemap](github-readme-contents/change-theme.gif)
+
+
+### Change Password
+
+- Go to settings
+
+![Sitemap](github-readme-contents/change-password.jpg)
+
+
+### Change Username
+
+- Go to settings
+
+![Sitemap](github-readme-contents/change-username.jpg)
+
+
+### Student Registration Module
+
+This module is the registration module which is used to register students to the system. Here, the admin will enter the student details to add into the system. the admin needs to enter the following basic information such as name, date of birth, age, contact info and etc.
+
+#### Features
+- Insert students in a precise manner.
+
+- This modules uses AJAX call to retrieve the course and batch details from the database to show to admin to select which course that the student is going to follow.
+
+- This module has the functionalities to calculate the age of the student with the given date of birth.
+
+![Sitemap](github-readme-contents/student-register.png)
+
+### Student Management Module
+
+#### Features
+- This module is used to update the student details.
+- This module is used to delete the student details.
+
+
+![Sitemap](github-readme-contents/student-manage.png)
+
+
+### Staff Registration Module
+
+This module is used to register staff details to the system.
+
+#### Features
+- This module is used to store the staff details  in the database.
+
+- This module uses AJAX calls to gather department information from the database to assign to the corresponding staff.
+
+- This module automatically calculate the age of the staff with the given date of birth.
+
+
+![Sitemap](github-readme-contents/staff-register.png)
+
+
+### Staff Management Module
+
+#### Features
+- This module is used to manage the staff details.
+- Store staff derails into database.
+- Update staff details.
+- Delete staff details.
+
+
+![Sitemap](github-readme-contents/staff-manage.png)
+
+
+### Add Course Module
+
+#### Features
+- Add courses to the database
+
+
+![Sitemap](github-readme-contents/add-course.png)
+
+### Manage Course Module
+
+#### Features
+
+- Course can be deleted
+- Course can be updated
+
+
+![Sitemap](github-readme-contents/course-manage.png)
+
+### Add Batch Module
+
+#### Features
+- Add batches to the database.
+
+
+![Sitemap](github-readme-contents/add-batch.jpg)
+
+### Manage Batch Module
+
+#### Features
+
+- Batches can be deleted
+
+
+![Sitemap](github-readme-contents/manage-batch.jpg)
+
+
+### Add Department Module
+
+#### Features
+- Add department data to the database.
+
+
+![Sitemap](github-readme-contents/add-department.jpg)
+
+### Manage Department Module
+
+#### Features
+
+- Department data can be deleted
+
+
+![Sitemap](github-readme-contents/manage-department.jpg)
+
+
+### Add Module (Subjects) Section
+
+#### Features
+- Add modules to the database.
+
+
+![Sitemap](github-readme-contents/add-module.png)
+
+
+### Manage Module (Subjects) Section
+
+#### Features
+
+- This module has the CRUD functionalities.
+- This module has the ability to list down subjects based on courses.  
+
+
+
+![Sitemap](github-readme-contents/manage-module.png)
+
+
+### Add Results Module
+
+#### Features
+- It is used to insert results in database.
+
+- It uses AJAX to retrieve batch number from the database when we select course
+
+- When we select course, it will list down all the batch numbers which corresponds to a specified course.
+
+- When we select batch number it will list all the students who are in that selected batch number.
+
+
+
+![Sitemap](github-readme-contents/add-results.png)
+
+
+### Manage Results Module
+
+#### Features
+
+- This module can be used to show the results.
+
+- When we select the course, it will list all the batch numbers which are associated with it.
+
+- When we select the batch number, it will list down all students who are in that particular batch.
+
+- When we click search it will list down the results of the student.
+
+
+![Sitemap](github-readme-contents/manage-results.png)
+
+
+### Results (Search Output)
+
+#### Features
+
+- After selecting student and click the show results button, it will bring up that particular student results in a separate page.
+
+- Results can be deleted.
+
+- Results can be updated.
+
+- If we click back button, it will go back to the search panel.
+
+![Sitemap](github-readme-contents/results.png)
+
+
+### Create Student Accounts Module
+
+#### Features
+
+- This module is used to create user accounts for students.
+
+- This module uses AJAX.
+
+
+
+![Sitemap](github-readme-contents/create-student-accounts.png)
+
+
+### Manage Student Accounts Module
+
+#### Features
+
+- This module is used to perform CRUD functions in user accounts such as change student password, username and etc.
+
+- Students account can be deleted.
+- Student account details can be updated.
+
+
+
+![Sitemap](github-readme-contents/student-account-details.png)
+
+
+### Student Account Login
+
+#### Sample Student login
+
+- **Username:** student1
+- **Password:** pass123
+
+
+![Sitemap](github-readme-contents/student-account-login.jpg)
+
+### Student Account
+
+The user accounts are used by the students to show their results. It would be very useful for them to maintain their work in a perfect manner. The users do not have much permissions. They only have some basic operations that they can used to perform.
+
+
+#### Features
+
+- They can view their results.
+- They can change their profile picture
+- They can change their password
+- They can change the theme of the website.
+
+![Sitemap](github-readme-contents/student-details.png)
+
+
+### Results (Student Account)
+
+#### Features
+
+- They can view their results.
+
+![Sitemap](github-readme-contents/student-results.png)
+
+
+### Change Student Account Theme
+
+
+![Sitemap](github-readme-contents/student-theme.png)
+
+
+### Change Profile Picture Student Account
+
+
+![Sitemap](github-readme-contents/student-account-change.png)
+
+
+### Change Password Student Account
+
+
+![Sitemap](github-readme-contents/student-account.png)
 
 ## Web Testing Scripts Explained
 
