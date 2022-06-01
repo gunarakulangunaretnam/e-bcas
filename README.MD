@@ -411,4 +411,55 @@ The user accounts are used by the students to show their results. It would be ve
 
 ## Web Testing Scripts Explained
 
+### Introduction
+
+Web testing is a software testing practice to test websites or web applications for potential bugs. It’s a complete testing of web-based applications before making them live.
+
+**Note:** The testing script for this web application is found on the following directory "2-selenium-testing-scripts/start-testing.py", to start the automatic testing run this scripts.
+
+**Note:** The framework, selenium is used to build this testing script with python Programming language.
+
+#### Setup Testing Script
+
+- **Step 01: Install Python**
+  - [Download Python](https://www.python.org/)
+
+- **Step 02: Install Selenium**
+  - ```pip install selenium```
+
+- **Step 03: Download Latest Driver for Chrome**
+  - [Download Chrome Driver](https://chromedriver.chromium.org/downloadsrg/)
+
+- **Step 03: Install Pynput**
+  - ```pip install pynput```
+
+
+#### Execute Testing script.
+
+- **Step 01:** The script is found on the following directory.
+
+  ```
+  ebcas/2-selenium-testing-scripts/start-testing.py
+  ```
+
+- **Step 02:** Edit the URL to the domain (Hosted URL) on line number 32.
+
+  ![Sitemap](github-readme-contents/test-script.jpg)
+
+- **Step 03:** Execute the script.
+
+  ```
+  python start-testing.py
+  ```
+
+#### Testing script output.
+
+![Sitemap](github-readme-contents/testing-output.gif)
+
 ## Social Media Links
+
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
+* [Facebook Page](https://www.facebook.com/gunarakulangunaretnam)
+* [Twitter Profile](https://twitter.com/gunarakulan)
+* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam/)
+* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)

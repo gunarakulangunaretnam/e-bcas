@@ -1,0 +1,31 @@
+Testing Started on 2022-6-1 at 07:37:26 PM
+===========================================
+
+The System has been logined as admin mood at 07:37:26 PM 
+
+
+
+
+
+
+The testing process of the system completed at 07:37:26 PM
+------------------------------------------------------------------------------------
+The testing process of student module started at 07:37:26 PM
+---------------------------------------------------------------------------------
+
+
+
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
+A new student has been inserted at 07:37:26 PM
