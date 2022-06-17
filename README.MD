@@ -428,7 +428,7 @@ Web testing is a software testing practice to test websites or web applications 
   - ```pip install selenium```
 
 - **Step 03: Download Latest Driver for Chrome**
-  - [Download Chrome Driver]([https://chromedriver.chromium.org/downloadsrg/](https://chromedriver.chromium.org/downloads))
+  - [Download Chrome Driver](https://chromedriver.chromium.org/downloads)
 
 - **Step 03: Install Pynput**
   - ```pip install pynput```
