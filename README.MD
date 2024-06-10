@@ -456,7 +456,7 @@ Web testing is a software testing practice to test websites or web applications 
 
 ![Sitemap](github-readme-contents/testing-output.gif)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
